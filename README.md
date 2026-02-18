@@ -130,6 +130,6 @@ Bu proje eğitim amaçlı geliştirilmiştir !
 
 <div align="center">
 
-⭐ Bu proje faydalıysa **star** vermeyi unutmayın!
+
 
 </div>
