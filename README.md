@@ -122,9 +122,9 @@ jupyter notebook persona_analysis.ipynb
 - 💰 Ülke bazlı ortalama fiyatlar birbirine oldukça yakındır (~**$34**)
 - 🇹🇷 **Türkiye**, Android platformunda en yüksek ortalama fiyata sahiptir (**$36.23**)
 
-## 📄 Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
+
+Bu proje eğitim amaçlı geliştirilmiştir !
 
 ---
 
