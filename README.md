@@ -124,7 +124,7 @@ jupyter notebook persona_analysis.ipynb
 
 
 
-Bu proje eğitim amaçlı geliştirilmiştir !
+
 
 ---
 
